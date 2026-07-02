@@ -70,7 +70,6 @@ function renderUnassigned() {
   let rows = entries
     .map(
       (e) => `<tr>
-        <td>${e.name || "—"}</td>
         <td>${e.lump_sum ? "Lump sum (no per-flat breakdown)" : "No flat number recorded"}</td>
         <td>${fmtINR(e.amount)}</td>
         <td>${e.source}</td>
@@ -79,10 +78,10 @@ function renderUnassigned() {
     .join("");
   const total = entries.reduce((s, e) => s + e.amount, 0);
   el.innerHTML = `
-    <thead><tr><th>Name</th><th>Note</th><th>Amount</th><th>Source</th></tr></thead>
+    <thead><tr><th>Note</th><th>Amount</th><th>Source</th></tr></thead>
     <tbody>
       ${rows}
-      <tr class="total-row"><td colspan="2">Total</td><td>${fmtINR(total)}</td><td></td></tr>
+      <tr class="total-row"><td>Total</td><td>${fmtINR(total)}</td><td></td></tr>
     </tbody>`;
 }
 
@@ -113,8 +112,7 @@ function renderBlockDetail(block) {
       const amt = f.entries.reduce((s, e) => s + e.amount, 0);
       const title =
         f.entries.length > 0
-          ? f.entries.map((e) => `${e.name}: ${fmtINR(e.amount)}`).join(" + ") +
-            (f.entries.length > 1 ? ` = ${fmtINR(amt)} (contributed ${f.entries.length}x)` : "")
+          ? `${fmtINR(amt)}` + (f.entries.length > 1 ? ` (contributed ${f.entries.length}x)` : "")
           : "Pending";
       return `<div class="flat-cell ${cls}" title="${title.replace(/"/g, "&quot;")}">${f.flat.split("-")[1]}</div>`;
     })

@@ -45,7 +45,6 @@ const SITE_DATA = {
             {
               "flat": "A-107",
               "block": "A",
-              "name": "Vipin",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -75,7 +74,6 @@ const SITE_DATA = {
             {
               "flat": "A-203",
               "block": "A",
-              "name": "Shiva",
               "amount": 500.0,
               "date": "2025-12-11 00:00:00",
               "source": "icici",
@@ -115,7 +113,6 @@ const SITE_DATA = {
             {
               "flat": "A-301",
               "block": "A",
-              "name": "Santosh Kumar",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -150,7 +147,6 @@ const SITE_DATA = {
             {
               "flat": "A-306",
               "block": "A",
-              "name": "Nikhil",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -165,7 +161,6 @@ const SITE_DATA = {
             {
               "flat": "A-307",
               "block": "A",
-              "name": "Abhishek",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -180,7 +175,6 @@ const SITE_DATA = {
             {
               "flat": "A-308",
               "block": "A",
-              "name": "Jawahar singh",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -215,7 +209,6 @@ const SITE_DATA = {
             {
               "flat": "A-405",
               "block": "A",
-              "name": "John Wesly",
               "amount": 500.0,
               "date": "2025-12-15 00:00:00",
               "source": "icici",
@@ -230,7 +223,6 @@ const SITE_DATA = {
             {
               "flat": "A-406",
               "block": "A",
-              "name": "Sri Krishna Murthy",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -245,7 +237,6 @@ const SITE_DATA = {
             {
               "flat": "A-407",
               "block": "A",
-              "name": "Md. Jalal Uddin",
               "amount": 500.0,
               "date": "2025-12-19 00:00:00",
               "source": "icici",
@@ -270,7 +261,6 @@ const SITE_DATA = {
             {
               "flat": "A-502",
               "block": "A",
-              "name": "Saurabh Kumar",
               "amount": 500.0,
               "date": "2025-12-20 00:00:00",
               "source": "icici",
@@ -305,7 +295,6 @@ const SITE_DATA = {
             {
               "flat": "A-507",
               "block": "A",
-              "name": "Chandrakanth",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -335,7 +324,6 @@ const SITE_DATA = {
             {
               "flat": "A-603",
               "block": "A",
-              "name": "Ashok Das",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -355,7 +343,6 @@ const SITE_DATA = {
             {
               "flat": "A-605",
               "block": "A",
-              "name": "Vikram Ojha",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -380,7 +367,6 @@ const SITE_DATA = {
             {
               "flat": "A-608",
               "block": "A",
-              "name": "Prajwal Singh",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -405,7 +391,6 @@ const SITE_DATA = {
             {
               "flat": "A-703",
               "block": "A",
-              "name": "Anju Das",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -420,7 +405,6 @@ const SITE_DATA = {
             {
               "flat": "A-704",
               "block": "A",
-              "name": "Aditya Kumar",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -440,7 +424,6 @@ const SITE_DATA = {
             {
               "flat": "A-706",
               "block": "A",
-              "name": "Maya Singh",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -455,7 +438,6 @@ const SITE_DATA = {
             {
               "flat": "A-707",
               "block": "A",
-              "name": "Pradeep",
               "amount": 500.0,
               "date": "2025-12-11 00:00:00",
               "source": "icici",
@@ -475,7 +457,6 @@ const SITE_DATA = {
             {
               "flat": "A-801",
               "block": "A",
-              "name": "Shashi Ranjan Singh",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -495,7 +476,6 @@ const SITE_DATA = {
             {
               "flat": "A-803",
               "block": "A",
-              "name": "Gunjan Baruah",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -520,7 +500,6 @@ const SITE_DATA = {
             {
               "flat": "A-806",
               "block": "A",
-              "name": "Shariq Ahmed",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -535,7 +514,6 @@ const SITE_DATA = {
             {
               "flat": "A-807",
               "block": "A",
-              "name": "Gulshan Patiyal",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -550,7 +528,6 @@ const SITE_DATA = {
             {
               "flat": "A-808",
               "block": "A",
-              "name": "Manish Rai",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -570,7 +547,6 @@ const SITE_DATA = {
             {
               "flat": "A-902",
               "block": "A",
-              "name": "Anshuk kumar ghosh",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -585,7 +561,6 @@ const SITE_DATA = {
             {
               "flat": "A-903",
               "block": "A",
-              "name": "Sunita Koul",
               "amount": 500.0,
               "date": "2025-12-12 00:00:00",
               "source": "icici",
@@ -600,7 +575,6 @@ const SITE_DATA = {
             {
               "flat": "A-904",
               "block": "A",
-              "name": "Arjun Pandit",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -620,7 +594,6 @@ const SITE_DATA = {
             {
               "flat": "A-906",
               "block": "A",
-              "name": "Ajay Kumar Singh",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -635,7 +608,6 @@ const SITE_DATA = {
             {
               "flat": "A-907",
               "block": "A",
-              "name": "Sudeep Shrivastav",
               "amount": 500.0,
               "date": "2025-12-12 00:00:00",
               "source": "icici",
@@ -650,7 +622,6 @@ const SITE_DATA = {
             {
               "flat": "A-908",
               "block": "A",
-              "name": "Sabyasachi",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -665,7 +636,6 @@ const SITE_DATA = {
             {
               "flat": "A-1001",
               "block": "A",
-              "name": "Aditya Prakash",
               "amount": 500.0,
               "date": "2025-12-20 00:00:00",
               "source": "icici",
@@ -690,7 +660,6 @@ const SITE_DATA = {
             {
               "flat": "A-1004",
               "block": "A",
-              "name": "Abhinandan Tyagi",
               "amount": 500.0,
               "date": "2025-12-11 00:00:00",
               "source": "icici",
@@ -710,7 +679,6 @@ const SITE_DATA = {
             {
               "flat": "A-1006",
               "block": "A",
-              "name": "Sandeep Bhardwaj",
               "amount": 500.0,
               "date": "2025-12-12 00:00:00",
               "source": "icici",
@@ -730,7 +698,6 @@ const SITE_DATA = {
             {
               "flat": "A-1008",
               "block": "A",
-              "name": "T V subramani",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -750,7 +717,6 @@ const SITE_DATA = {
             {
               "flat": "A-1102",
               "block": "A",
-              "name": "Bharat C V",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -765,7 +731,6 @@ const SITE_DATA = {
             {
               "flat": "A-1103",
               "block": "A",
-              "name": "Alok Kumar Anal",
               "amount": 500.0,
               "date": "2025-12-22 00:00:00",
               "source": "icici",
@@ -790,7 +755,6 @@ const SITE_DATA = {
             {
               "flat": "A-1106",
               "block": "A",
-              "name": "Amit Anal",
               "amount": 500.0,
               "date": "2025-12-11 00:00:00",
               "source": "icici",
@@ -805,7 +769,6 @@ const SITE_DATA = {
             {
               "flat": "A-1107",
               "block": "A",
-              "name": "Bishweshwar",
               "amount": 501.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -820,7 +783,6 @@ const SITE_DATA = {
             {
               "flat": "A-1108",
               "block": "A",
-              "name": "P Praveena Kumari",
               "amount": 500.0,
               "date": "2025-12-11 00:00:00",
               "source": "icici",
@@ -835,7 +797,6 @@ const SITE_DATA = {
             {
               "flat": "A-1201",
               "block": "A",
-              "name": "Indranil Ray",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -880,7 +841,6 @@ const SITE_DATA = {
             {
               "flat": "A-1208",
               "block": "A",
-              "name": "Kumarrajeev",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -910,7 +870,6 @@ const SITE_DATA = {
             {
               "flat": "A-1304",
               "block": "A",
-              "name": "Yatindra Jain",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -935,7 +894,6 @@ const SITE_DATA = {
             {
               "flat": "A-1307",
               "block": "A",
-              "name": "Murlidhar Mulgund",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -960,7 +918,6 @@ const SITE_DATA = {
             {
               "flat": "A-1402",
               "block": "A",
-              "name": "Sandeep Jain",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -975,7 +932,6 @@ const SITE_DATA = {
             {
               "flat": "A-1403",
               "block": "A",
-              "name": "Gokul Raghu M",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -1000,7 +956,6 @@ const SITE_DATA = {
             {
               "flat": "A-1406",
               "block": "A",
-              "name": "Santosh PV",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -1020,7 +975,6 @@ const SITE_DATA = {
             {
               "flat": "A-1408",
               "block": "A",
-              "name": "Pranav Shenoy",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -1033,7 +987,6 @@ const SITE_DATA = {
         {
           "flat": "A-1001",
           "block": "A",
-          "name": "Aditya Prakash",
           "amount": 500.0,
           "date": "2025-12-20 00:00:00",
           "source": "icici",
@@ -1042,7 +995,6 @@ const SITE_DATA = {
         {
           "flat": "A-1004",
           "block": "A",
-          "name": "Abhinandan Tyagi",
           "amount": 500.0,
           "date": "2025-12-11 00:00:00",
           "source": "icici",
@@ -1051,7 +1003,6 @@ const SITE_DATA = {
         {
           "flat": "A-1006",
           "block": "A",
-          "name": "Sandeep Bhardwaj",
           "amount": 500.0,
           "date": "2025-12-12 00:00:00",
           "source": "icici",
@@ -1060,7 +1011,6 @@ const SITE_DATA = {
         {
           "flat": "A-1008",
           "block": "A",
-          "name": "T V subramani",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -1069,7 +1019,6 @@ const SITE_DATA = {
         {
           "flat": "A-107",
           "block": "A",
-          "name": "Vipin",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -1078,7 +1027,6 @@ const SITE_DATA = {
         {
           "flat": "A-1102",
           "block": "A",
-          "name": "Bharat C V",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -1087,7 +1035,6 @@ const SITE_DATA = {
         {
           "flat": "A-1103",
           "block": "A",
-          "name": "Alok Kumar Anal",
           "amount": 500.0,
           "date": "2025-12-22 00:00:00",
           "source": "icici",
@@ -1096,7 +1043,6 @@ const SITE_DATA = {
         {
           "flat": "A-1106",
           "block": "A",
-          "name": "Amit Anal",
           "amount": 500.0,
           "date": "2025-12-11 00:00:00",
           "source": "icici",
@@ -1105,7 +1051,6 @@ const SITE_DATA = {
         {
           "flat": "A-1107",
           "block": "A",
-          "name": "Bishweshwar",
           "amount": 501.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1114,7 +1059,6 @@ const SITE_DATA = {
         {
           "flat": "A-1108",
           "block": "A",
-          "name": "P Praveena Kumari",
           "amount": 500.0,
           "date": "2025-12-11 00:00:00",
           "source": "icici",
@@ -1123,7 +1067,6 @@ const SITE_DATA = {
         {
           "flat": "A-1201",
           "block": "A",
-          "name": "Indranil Ray",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1132,7 +1075,6 @@ const SITE_DATA = {
         {
           "flat": "A-1208",
           "block": "A",
-          "name": "Kumarrajeev",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -1141,7 +1083,6 @@ const SITE_DATA = {
         {
           "flat": "A-1304",
           "block": "A",
-          "name": "Yatindra Jain",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1150,7 +1091,6 @@ const SITE_DATA = {
         {
           "flat": "A-1307",
           "block": "A",
-          "name": "Murlidhar Mulgund",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1159,7 +1099,6 @@ const SITE_DATA = {
         {
           "flat": "A-1402",
           "block": "A",
-          "name": "Sandeep Jain",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1168,7 +1107,6 @@ const SITE_DATA = {
         {
           "flat": "A-1403",
           "block": "A",
-          "name": "Gokul Raghu M",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1177,7 +1115,6 @@ const SITE_DATA = {
         {
           "flat": "A-1406",
           "block": "A",
-          "name": "Santosh PV",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1186,7 +1123,6 @@ const SITE_DATA = {
         {
           "flat": "A-1408",
           "block": "A",
-          "name": "Pranav Shenoy",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1195,7 +1131,6 @@ const SITE_DATA = {
         {
           "flat": "A-203",
           "block": "A",
-          "name": "Shiva",
           "amount": 500.0,
           "date": "2025-12-11 00:00:00",
           "source": "icici",
@@ -1204,7 +1139,6 @@ const SITE_DATA = {
         {
           "flat": "A-301",
           "block": "A",
-          "name": "Santosh Kumar",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1213,7 +1147,6 @@ const SITE_DATA = {
         {
           "flat": "A-306",
           "block": "A",
-          "name": "Nikhil",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1222,7 +1155,6 @@ const SITE_DATA = {
         {
           "flat": "A-307",
           "block": "A",
-          "name": "Abhishek",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -1231,7 +1163,6 @@ const SITE_DATA = {
         {
           "flat": "A-308",
           "block": "A",
-          "name": "Jawahar singh",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -1240,7 +1171,6 @@ const SITE_DATA = {
         {
           "flat": "A-405",
           "block": "A",
-          "name": "John Wesly",
           "amount": 500.0,
           "date": "2025-12-15 00:00:00",
           "source": "icici",
@@ -1249,7 +1179,6 @@ const SITE_DATA = {
         {
           "flat": "A-406",
           "block": "A",
-          "name": "Sri Krishna Murthy",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1258,7 +1187,6 @@ const SITE_DATA = {
         {
           "flat": "A-407",
           "block": "A",
-          "name": "Md. Jalal Uddin",
           "amount": 500.0,
           "date": "2025-12-19 00:00:00",
           "source": "icici",
@@ -1267,7 +1195,6 @@ const SITE_DATA = {
         {
           "flat": "A-502",
           "block": "A",
-          "name": "Saurabh Kumar",
           "amount": 500.0,
           "date": "2025-12-20 00:00:00",
           "source": "icici",
@@ -1276,7 +1203,6 @@ const SITE_DATA = {
         {
           "flat": "A-507",
           "block": "A",
-          "name": "Chandrakanth",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -1285,7 +1211,6 @@ const SITE_DATA = {
         {
           "flat": "A-603",
           "block": "A",
-          "name": "Ashok Das",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1294,7 +1219,6 @@ const SITE_DATA = {
         {
           "flat": "A-605",
           "block": "A",
-          "name": "Vikram Ojha",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1303,7 +1227,6 @@ const SITE_DATA = {
         {
           "flat": "A-608",
           "block": "A",
-          "name": "Prajwal Singh",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1312,7 +1235,6 @@ const SITE_DATA = {
         {
           "flat": "A-703",
           "block": "A",
-          "name": "Anju Das",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -1321,7 +1243,6 @@ const SITE_DATA = {
         {
           "flat": "A-704",
           "block": "A",
-          "name": "Aditya Kumar",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1330,7 +1251,6 @@ const SITE_DATA = {
         {
           "flat": "A-706",
           "block": "A",
-          "name": "Maya Singh",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -1339,7 +1259,6 @@ const SITE_DATA = {
         {
           "flat": "A-707",
           "block": "A",
-          "name": "Pradeep",
           "amount": 500.0,
           "date": "2025-12-11 00:00:00",
           "source": "icici",
@@ -1348,7 +1267,6 @@ const SITE_DATA = {
         {
           "flat": "A-801",
           "block": "A",
-          "name": "Shashi Ranjan Singh",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1357,7 +1275,6 @@ const SITE_DATA = {
         {
           "flat": "A-803",
           "block": "A",
-          "name": "Gunjan Baruah",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1366,7 +1283,6 @@ const SITE_DATA = {
         {
           "flat": "A-806",
           "block": "A",
-          "name": "Shariq Ahmed",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1375,7 +1291,6 @@ const SITE_DATA = {
         {
           "flat": "A-807",
           "block": "A",
-          "name": "Gulshan Patiyal",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1384,7 +1299,6 @@ const SITE_DATA = {
         {
           "flat": "A-808",
           "block": "A",
-          "name": "Manish Rai",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1393,7 +1307,6 @@ const SITE_DATA = {
         {
           "flat": "A-902",
           "block": "A",
-          "name": "Anshuk kumar ghosh",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -1402,7 +1315,6 @@ const SITE_DATA = {
         {
           "flat": "A-903",
           "block": "A",
-          "name": "Sunita Koul",
           "amount": 500.0,
           "date": "2025-12-12 00:00:00",
           "source": "icici",
@@ -1411,7 +1323,6 @@ const SITE_DATA = {
         {
           "flat": "A-904",
           "block": "A",
-          "name": "Arjun Pandit",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1420,7 +1331,6 @@ const SITE_DATA = {
         {
           "flat": "A-906",
           "block": "A",
-          "name": "Ajay Kumar Singh",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -1429,7 +1339,6 @@ const SITE_DATA = {
         {
           "flat": "A-907",
           "block": "A",
-          "name": "Sudeep Shrivastav",
           "amount": 500.0,
           "date": "2025-12-12 00:00:00",
           "source": "icici",
@@ -1438,7 +1347,6 @@ const SITE_DATA = {
         {
           "flat": "A-908",
           "block": "A",
-          "name": "Sabyasachi",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -1464,7 +1372,6 @@ const SITE_DATA = {
             {
               "flat": "B-102",
               "block": "B",
-              "name": "Gautam Roy",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -1529,7 +1436,6 @@ const SITE_DATA = {
             {
               "flat": "B-205",
               "block": "B",
-              "name": "Praveen Kummar Kavalur",
               "amount": 500.0,
               "date": "2025-12-16 00:00:00",
               "source": "icici",
@@ -1554,7 +1460,6 @@ const SITE_DATA = {
             {
               "flat": "B-208",
               "block": "B",
-              "name": "Sangamesh Gaded",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -1569,7 +1474,6 @@ const SITE_DATA = {
             {
               "flat": "B-301",
               "block": "B",
-              "name": "Pradeep M",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -1594,7 +1498,6 @@ const SITE_DATA = {
             {
               "flat": "B-304",
               "block": "B",
-              "name": "Venkatesh Chari",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -1603,7 +1506,6 @@ const SITE_DATA = {
             {
               "flat": "B-304",
               "block": "B",
-              "name": "Reshma Gopalkar",
               "amount": 500.0,
               "date": "2025-12-13 00:00:00",
               "source": "icici",
@@ -1623,7 +1525,6 @@ const SITE_DATA = {
             {
               "flat": "B-306",
               "block": "B",
-              "name": "Radhe Shyam",
               "amount": 500.0,
               "date": "2025-12-15 00:00:00",
               "source": "icici",
@@ -1648,7 +1549,6 @@ const SITE_DATA = {
             {
               "flat": "B-401",
               "block": "B",
-              "name": "Ramkrishna Pandey",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -1678,7 +1578,6 @@ const SITE_DATA = {
             {
               "flat": "B-405",
               "block": "B",
-              "name": "Gajula Rajtilak",
               "amount": 0.0,
               "date": "2025-12-12 00:00:00",
               "source": "icici",
@@ -1713,7 +1612,6 @@ const SITE_DATA = {
             {
               "flat": "B-502",
               "block": "B",
-              "name": "Kunal Kishore Nirala",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -1728,7 +1626,6 @@ const SITE_DATA = {
             {
               "flat": "B-503",
               "block": "B",
-              "name": "Santosh Kumar",
               "amount": 500.0,
               "date": "2025-12-13 00:00:00",
               "source": "icici",
@@ -1763,7 +1660,6 @@ const SITE_DATA = {
             {
               "flat": "B-508",
               "block": "B",
-              "name": "Digvijay Singh",
               "amount": 500.0,
               "date": "2025-12-13 00:00:00",
               "source": "icici",
@@ -1793,7 +1689,6 @@ const SITE_DATA = {
             {
               "flat": "B-604",
               "block": "B",
-              "name": "Purshotham",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -1808,7 +1703,6 @@ const SITE_DATA = {
             {
               "flat": "B-605",
               "block": "B",
-              "name": "Khadeer Ahamed",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -1823,7 +1717,6 @@ const SITE_DATA = {
             {
               "flat": "B-606",
               "block": "B",
-              "name": "Naveen Bodireddy",
               "amount": 500.0,
               "date": "2025-12-15 00:00:00",
               "source": "icici",
@@ -1838,7 +1731,6 @@ const SITE_DATA = {
             {
               "flat": "B-607",
               "block": "B",
-              "name": "Sayantan Sinha",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -1853,7 +1745,6 @@ const SITE_DATA = {
             {
               "flat": "B-608",
               "block": "B",
-              "name": "Diptosh sarkar",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -1873,7 +1764,6 @@ const SITE_DATA = {
             {
               "flat": "B-702",
               "block": "B",
-              "name": "Sandeep",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -1888,7 +1778,6 @@ const SITE_DATA = {
             {
               "flat": "B-703",
               "block": "B",
-              "name": "Anurag Mishra",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -1908,7 +1797,6 @@ const SITE_DATA = {
             {
               "flat": "B-705",
               "block": "B",
-              "name": "Prakhar Mishra",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -1923,7 +1811,6 @@ const SITE_DATA = {
             {
               "flat": "B-706",
               "block": "B",
-              "name": "B Manoj Kumar",
               "amount": 500.0,
               "date": "2025-12-13 00:00:00",
               "source": "icici",
@@ -1943,7 +1830,6 @@ const SITE_DATA = {
             {
               "flat": "B-708",
               "block": "B",
-              "name": "Ashish Chhatwal",
               "amount": 500.0,
               "date": "2025-12-22 00:00:00",
               "source": "icici",
@@ -1963,7 +1849,6 @@ const SITE_DATA = {
             {
               "flat": "B-802",
               "block": "B",
-              "name": "Pankaj Kumar Dubey",
               "amount": 500.0,
               "date": "2025-12-21 00:00:00",
               "source": "icici",
@@ -1983,7 +1868,6 @@ const SITE_DATA = {
             {
               "flat": "B-804",
               "block": "B",
-              "name": "Arjun Pandit",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -2003,7 +1887,6 @@ const SITE_DATA = {
             {
               "flat": "B-806",
               "block": "B",
-              "name": "Basil A Kurian",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2018,7 +1901,6 @@ const SITE_DATA = {
             {
               "flat": "B-807",
               "block": "B",
-              "name": "Vasu Kalkundrikar",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2033,7 +1915,6 @@ const SITE_DATA = {
             {
               "flat": "B-808",
               "block": "B",
-              "name": "Sandeep kumar Jt1",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2058,7 +1939,6 @@ const SITE_DATA = {
             {
               "flat": "B-903",
               "block": "B",
-              "name": "Rijo Rajan",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -2088,7 +1968,6 @@ const SITE_DATA = {
             {
               "flat": "B-907",
               "block": "B",
-              "name": "Anand Kumar singh",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2113,7 +1992,6 @@ const SITE_DATA = {
             {
               "flat": "B-1002",
               "block": "B",
-              "name": "Mamata Singh",
               "amount": 500.0,
               "date": "2025-12-20 00:00:00",
               "source": "icici",
@@ -2128,7 +2006,6 @@ const SITE_DATA = {
             {
               "flat": "B-1003",
               "block": "B",
-              "name": "Suvarnil Kundu",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -2163,7 +2040,6 @@ const SITE_DATA = {
             {
               "flat": "B-1008",
               "block": "B",
-              "name": "Sumit Pani",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -2188,7 +2064,6 @@ const SITE_DATA = {
             {
               "flat": "B-1103",
               "block": "B",
-              "name": "Kapil Upadhyay",
               "amount": 500.0,
               "date": "2025-12-21 00:00:00",
               "source": "icici",
@@ -2203,7 +2078,6 @@ const SITE_DATA = {
             {
               "flat": "B-1104",
               "block": "B",
-              "name": "Srinath",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2223,7 +2097,6 @@ const SITE_DATA = {
             {
               "flat": "B-1106",
               "block": "B",
-              "name": "Gautam Singh",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -2248,7 +2121,6 @@ const SITE_DATA = {
             {
               "flat": "B-1201",
               "block": "B",
-              "name": "Amresh M sajjanshetty",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2268,7 +2140,6 @@ const SITE_DATA = {
             {
               "flat": "B-1203",
               "block": "B",
-              "name": "Vinod Kumar Moodbidri",
               "amount": 500.0,
               "date": "2025-12-22 00:00:00",
               "source": "icici",
@@ -2288,7 +2159,6 @@ const SITE_DATA = {
             {
               "flat": "B-1205",
               "block": "B",
-              "name": "Diraj Khushal",
               "amount": 500.0,
               "date": "2025-12-19 00:00:00",
               "source": "icici",
@@ -2303,7 +2173,6 @@ const SITE_DATA = {
             {
               "flat": "B-1206",
               "block": "B",
-              "name": "Goutham sharma",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2333,7 +2202,6 @@ const SITE_DATA = {
             {
               "flat": "B-1302",
               "block": "B",
-              "name": "Akhil Narayanana",
               "amount": 500.0,
               "date": "2025-12-13 00:00:00",
               "source": "icici",
@@ -2358,7 +2226,6 @@ const SITE_DATA = {
             {
               "flat": "B-1305",
               "block": "B",
-              "name": "Bino Ramachandran",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2378,7 +2245,6 @@ const SITE_DATA = {
             {
               "flat": "B-1307",
               "block": "B",
-              "name": "Aman Swarup Gupta",
               "amount": 500.0,
               "date": "2025-12-13 00:00:00",
               "source": "icici",
@@ -2393,7 +2259,6 @@ const SITE_DATA = {
             {
               "flat": "B-1308",
               "block": "B",
-              "name": "Anirban Bera",
               "amount": 500.0,
               "date": "2025-12-09 00:00:00",
               "source": "icici",
@@ -2418,7 +2283,6 @@ const SITE_DATA = {
             {
               "flat": "B-1403",
               "block": "B",
-              "name": "Shruti Patiyal",
               "amount": 500.0,
               "date": "2025-12-25 00:00:00",
               "source": "icici",
@@ -2438,7 +2302,6 @@ const SITE_DATA = {
             {
               "flat": "B-1405",
               "block": "B",
-              "name": "Dr. Abhishek Dutta Gupta",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2466,7 +2329,6 @@ const SITE_DATA = {
         {
           "flat": "B-1002",
           "block": "B",
-          "name": "Mamata Singh",
           "amount": 500.0,
           "date": "2025-12-20 00:00:00",
           "source": "icici",
@@ -2475,7 +2337,6 @@ const SITE_DATA = {
         {
           "flat": "B-1003",
           "block": "B",
-          "name": "Suvarnil Kundu",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -2484,7 +2345,6 @@ const SITE_DATA = {
         {
           "flat": "B-1008",
           "block": "B",
-          "name": "Sumit Pani",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -2493,7 +2353,6 @@ const SITE_DATA = {
         {
           "flat": "B-102",
           "block": "B",
-          "name": "Gautam Roy",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2502,7 +2361,6 @@ const SITE_DATA = {
         {
           "flat": "B-1103",
           "block": "B",
-          "name": "Kapil Upadhyay",
           "amount": 500.0,
           "date": "2025-12-21 00:00:00",
           "source": "icici",
@@ -2511,7 +2369,6 @@ const SITE_DATA = {
         {
           "flat": "B-1104",
           "block": "B",
-          "name": "Srinath",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2520,7 +2377,6 @@ const SITE_DATA = {
         {
           "flat": "B-1106",
           "block": "B",
-          "name": "Gautam Singh",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -2529,7 +2385,6 @@ const SITE_DATA = {
         {
           "flat": "B-1201",
           "block": "B",
-          "name": "Amresh M sajjanshetty",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2538,7 +2393,6 @@ const SITE_DATA = {
         {
           "flat": "B-1203",
           "block": "B",
-          "name": "Vinod Kumar Moodbidri",
           "amount": 500.0,
           "date": "2025-12-22 00:00:00",
           "source": "icici",
@@ -2547,7 +2401,6 @@ const SITE_DATA = {
         {
           "flat": "B-1205",
           "block": "B",
-          "name": "Diraj Khushal",
           "amount": 500.0,
           "date": "2025-12-19 00:00:00",
           "source": "icici",
@@ -2556,7 +2409,6 @@ const SITE_DATA = {
         {
           "flat": "B-1206",
           "block": "B",
-          "name": "Goutham sharma",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2565,7 +2417,6 @@ const SITE_DATA = {
         {
           "flat": "B-1302",
           "block": "B",
-          "name": "Akhil Narayanana",
           "amount": 500.0,
           "date": "2025-12-13 00:00:00",
           "source": "icici",
@@ -2574,7 +2425,6 @@ const SITE_DATA = {
         {
           "flat": "B-1305",
           "block": "B",
-          "name": "Bino Ramachandran",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2583,7 +2433,6 @@ const SITE_DATA = {
         {
           "flat": "B-1307",
           "block": "B",
-          "name": "Aman Swarup Gupta",
           "amount": 500.0,
           "date": "2025-12-13 00:00:00",
           "source": "icici",
@@ -2592,7 +2441,6 @@ const SITE_DATA = {
         {
           "flat": "B-1308",
           "block": "B",
-          "name": "Anirban Bera",
           "amount": 500.0,
           "date": "2025-12-09 00:00:00",
           "source": "icici",
@@ -2601,7 +2449,6 @@ const SITE_DATA = {
         {
           "flat": "B-1403",
           "block": "B",
-          "name": "Shruti Patiyal",
           "amount": 500.0,
           "date": "2025-12-25 00:00:00",
           "source": "icici",
@@ -2610,7 +2457,6 @@ const SITE_DATA = {
         {
           "flat": "B-1405",
           "block": "B",
-          "name": "Dr. Abhishek Dutta Gupta",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2619,7 +2465,6 @@ const SITE_DATA = {
         {
           "flat": "B-205",
           "block": "B",
-          "name": "Praveen Kummar Kavalur",
           "amount": 500.0,
           "date": "2025-12-16 00:00:00",
           "source": "icici",
@@ -2628,7 +2473,6 @@ const SITE_DATA = {
         {
           "flat": "B-208",
           "block": "B",
-          "name": "Sangamesh Gaded",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2637,7 +2481,6 @@ const SITE_DATA = {
         {
           "flat": "B-301",
           "block": "B",
-          "name": "Pradeep M",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -2646,7 +2489,6 @@ const SITE_DATA = {
         {
           "flat": "B-304",
           "block": "B",
-          "name": "Venkatesh Chari",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2655,7 +2497,6 @@ const SITE_DATA = {
         {
           "flat": "B-304",
           "block": "B",
-          "name": "Reshma Gopalkar",
           "amount": 500.0,
           "date": "2025-12-13 00:00:00",
           "source": "icici",
@@ -2664,7 +2505,6 @@ const SITE_DATA = {
         {
           "flat": "B-306",
           "block": "B",
-          "name": "Radhe Shyam",
           "amount": 500.0,
           "date": "2025-12-15 00:00:00",
           "source": "icici",
@@ -2673,7 +2513,6 @@ const SITE_DATA = {
         {
           "flat": "B-401",
           "block": "B",
-          "name": "Ramkrishna Pandey",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -2682,7 +2521,6 @@ const SITE_DATA = {
         {
           "flat": "B-405",
           "block": "B",
-          "name": "Gajula Rajtilak",
           "amount": 0.0,
           "date": "2025-12-12 00:00:00",
           "source": "icici",
@@ -2691,7 +2529,6 @@ const SITE_DATA = {
         {
           "flat": "B-502",
           "block": "B",
-          "name": "Kunal Kishore Nirala",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2700,7 +2537,6 @@ const SITE_DATA = {
         {
           "flat": "B-503",
           "block": "B",
-          "name": "Santosh Kumar",
           "amount": 500.0,
           "date": "2025-12-13 00:00:00",
           "source": "icici",
@@ -2709,7 +2545,6 @@ const SITE_DATA = {
         {
           "flat": "B-508",
           "block": "B",
-          "name": "Digvijay Singh",
           "amount": 500.0,
           "date": "2025-12-13 00:00:00",
           "source": "icici",
@@ -2718,7 +2553,6 @@ const SITE_DATA = {
         {
           "flat": "B-604",
           "block": "B",
-          "name": "Purshotham",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2727,7 +2561,6 @@ const SITE_DATA = {
         {
           "flat": "B-605",
           "block": "B",
-          "name": "Khadeer Ahamed",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2736,7 +2569,6 @@ const SITE_DATA = {
         {
           "flat": "B-606",
           "block": "B",
-          "name": "Naveen Bodireddy",
           "amount": 500.0,
           "date": "2025-12-15 00:00:00",
           "source": "icici",
@@ -2745,7 +2577,6 @@ const SITE_DATA = {
         {
           "flat": "B-607",
           "block": "B",
-          "name": "Sayantan Sinha",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -2754,7 +2585,6 @@ const SITE_DATA = {
         {
           "flat": "B-608",
           "block": "B",
-          "name": "Diptosh sarkar",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2763,7 +2593,6 @@ const SITE_DATA = {
         {
           "flat": "B-702",
           "block": "B",
-          "name": "Sandeep",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -2772,7 +2601,6 @@ const SITE_DATA = {
         {
           "flat": "B-703",
           "block": "B",
-          "name": "Anurag Mishra",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -2781,7 +2609,6 @@ const SITE_DATA = {
         {
           "flat": "B-705",
           "block": "B",
-          "name": "Prakhar Mishra",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -2790,7 +2617,6 @@ const SITE_DATA = {
         {
           "flat": "B-706",
           "block": "B",
-          "name": "B Manoj Kumar",
           "amount": 500.0,
           "date": "2025-12-13 00:00:00",
           "source": "icici",
@@ -2799,7 +2625,6 @@ const SITE_DATA = {
         {
           "flat": "B-708",
           "block": "B",
-          "name": "Ashish Chhatwal",
           "amount": 500.0,
           "date": "2025-12-22 00:00:00",
           "source": "icici",
@@ -2808,7 +2633,6 @@ const SITE_DATA = {
         {
           "flat": "B-802",
           "block": "B",
-          "name": "Pankaj Kumar Dubey",
           "amount": 500.0,
           "date": "2025-12-21 00:00:00",
           "source": "icici",
@@ -2817,7 +2641,6 @@ const SITE_DATA = {
         {
           "flat": "B-804",
           "block": "B",
-          "name": "Arjun Pandit",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -2826,7 +2649,6 @@ const SITE_DATA = {
         {
           "flat": "B-806",
           "block": "B",
-          "name": "Basil A Kurian",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2835,7 +2657,6 @@ const SITE_DATA = {
         {
           "flat": "B-807",
           "block": "B",
-          "name": "Vasu Kalkundrikar",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2844,7 +2665,6 @@ const SITE_DATA = {
         {
           "flat": "B-808",
           "block": "B",
-          "name": "Sandeep kumar Jt1",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2853,7 +2673,6 @@ const SITE_DATA = {
         {
           "flat": "B-903",
           "block": "B",
-          "name": "Rijo Rajan",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -2862,7 +2681,6 @@ const SITE_DATA = {
         {
           "flat": "B-907",
           "block": "B",
-          "name": "Anand Kumar singh",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -2918,7 +2736,6 @@ const SITE_DATA = {
             {
               "flat": "C-108",
               "block": "C",
-              "name": "Narinder ghai",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -2993,7 +2810,6 @@ const SITE_DATA = {
             {
               "flat": "C-305",
               "block": "C",
-              "name": "Manjesh Bajirao Potbhare",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -3053,7 +2869,6 @@ const SITE_DATA = {
             {
               "flat": "C-407",
               "block": "C",
-              "name": "Naveen chandra N M",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -3073,7 +2888,6 @@ const SITE_DATA = {
             {
               "flat": "C-501",
               "block": "C",
-              "name": "Sharath G S",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -3168,7 +2982,6 @@ const SITE_DATA = {
             {
               "flat": "C-702",
               "block": "C",
-              "name": "Vinod Kumar",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -3203,7 +3016,6 @@ const SITE_DATA = {
             {
               "flat": "C-707",
               "block": "C",
-              "name": "Avinash Nayak",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -3258,7 +3070,6 @@ const SITE_DATA = {
             {
               "flat": "C-808",
               "block": "C",
-              "name": "Varalakshmi Y",
               "amount": 500.0,
               "date": "2025-12-25 00:00:00",
               "source": "icici",
@@ -3313,7 +3124,6 @@ const SITE_DATA = {
             {
               "flat": "C-1001",
               "block": "C",
-              "name": "Anirban Neogi",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -3358,7 +3168,6 @@ const SITE_DATA = {
             {
               "flat": "C-1008",
               "block": "C",
-              "name": "siddu patil",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -3423,7 +3232,6 @@ const SITE_DATA = {
             {
               "flat": "C-1203",
               "block": "C",
-              "name": "Shidharth",
               "amount": 500.0,
               "date": "2025-12-11 00:00:00",
               "source": "icici",
@@ -3508,7 +3316,6 @@ const SITE_DATA = {
             {
               "flat": "C-1402",
               "block": "C",
-              "name": "Tandrima Chatterjee",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -3551,7 +3358,6 @@ const SITE_DATA = {
         {
           "flat": "C-1001",
           "block": "C",
-          "name": "Anirban Neogi",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -3560,7 +3366,6 @@ const SITE_DATA = {
         {
           "flat": "C-1008",
           "block": "C",
-          "name": "siddu patil",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -3569,7 +3374,6 @@ const SITE_DATA = {
         {
           "flat": "C-108",
           "block": "C",
-          "name": "Narinder ghai",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -3578,7 +3382,6 @@ const SITE_DATA = {
         {
           "flat": "C-1203",
           "block": "C",
-          "name": "Shidharth",
           "amount": 500.0,
           "date": "2025-12-11 00:00:00",
           "source": "icici",
@@ -3587,7 +3390,6 @@ const SITE_DATA = {
         {
           "flat": "C-1402",
           "block": "C",
-          "name": "Tandrima Chatterjee",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -3596,7 +3398,6 @@ const SITE_DATA = {
         {
           "flat": "C-305",
           "block": "C",
-          "name": "Manjesh Bajirao Potbhare",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -3605,7 +3406,6 @@ const SITE_DATA = {
         {
           "flat": "C-407",
           "block": "C",
-          "name": "Naveen chandra N M",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -3614,7 +3414,6 @@ const SITE_DATA = {
         {
           "flat": "C-501",
           "block": "C",
-          "name": "Sharath G S",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -3623,7 +3422,6 @@ const SITE_DATA = {
         {
           "flat": "C-702",
           "block": "C",
-          "name": "Vinod Kumar",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -3632,7 +3430,6 @@ const SITE_DATA = {
         {
           "flat": "C-707",
           "block": "C",
-          "name": "Avinash Nayak",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -3641,7 +3438,6 @@ const SITE_DATA = {
         {
           "flat": "C-808",
           "block": "C",
-          "name": "Varalakshmi Y",
           "amount": 500.0,
           "date": "2025-12-25 00:00:00",
           "source": "icici",
@@ -3767,7 +3563,6 @@ const SITE_DATA = {
             {
               "flat": "D-306",
               "block": "D",
-              "name": "Ajeet Pandey",
               "amount": 500.0,
               "date": "2025-12-12 00:00:00",
               "source": "icici",
@@ -3812,7 +3607,6 @@ const SITE_DATA = {
             {
               "flat": "D-405",
               "block": "D",
-              "name": "Devraj b",
               "amount": 0.0,
               "date": null,
               "source": "oksbi",
@@ -3872,7 +3666,6 @@ const SITE_DATA = {
             {
               "flat": "D-507",
               "block": "D",
-              "name": "Basavaraj harti",
               "amount": 0.0,
               "date": null,
               "source": "oksbi",
@@ -3977,7 +3770,6 @@ const SITE_DATA = {
             {
               "flat": "D-802",
               "block": "D",
-              "name": "Jalajakshi",
               "amount": 0.0,
               "date": null,
               "source": "oksbi",
@@ -4167,7 +3959,6 @@ const SITE_DATA = {
             {
               "flat": "D-1206",
               "block": "D",
-              "name": "Sumit Mandal",
               "amount": 0.0,
               "date": null,
               "source": "oksbi",
@@ -4217,7 +4008,6 @@ const SITE_DATA = {
             {
               "flat": "D-1306",
               "block": "D",
-              "name": "Animesh Lohar",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -4237,7 +4027,6 @@ const SITE_DATA = {
             {
               "flat": "D-1308",
               "block": "D",
-              "name": "Govind Rao B",
               "amount": 0.0,
               "date": null,
               "source": "oksbi",
@@ -4290,7 +4079,6 @@ const SITE_DATA = {
         {
           "flat": "D-1206",
           "block": "D",
-          "name": "Sumit Mandal",
           "amount": 0.0,
           "date": null,
           "source": "oksbi",
@@ -4299,7 +4087,6 @@ const SITE_DATA = {
         {
           "flat": "D-1306",
           "block": "D",
-          "name": "Animesh Lohar",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -4308,7 +4095,6 @@ const SITE_DATA = {
         {
           "flat": "D-1308",
           "block": "D",
-          "name": "Govind Rao B",
           "amount": 0.0,
           "date": null,
           "source": "oksbi",
@@ -4317,7 +4103,6 @@ const SITE_DATA = {
         {
           "flat": "D-306",
           "block": "D",
-          "name": "Ajeet Pandey",
           "amount": 500.0,
           "date": "2025-12-12 00:00:00",
           "source": "icici",
@@ -4326,7 +4111,6 @@ const SITE_DATA = {
         {
           "flat": "D-405",
           "block": "D",
-          "name": "Devraj b",
           "amount": 0.0,
           "date": null,
           "source": "oksbi",
@@ -4335,7 +4119,6 @@ const SITE_DATA = {
         {
           "flat": "D-507",
           "block": "D",
-          "name": "Basavaraj harti",
           "amount": 0.0,
           "date": null,
           "source": "oksbi",
@@ -4344,7 +4127,6 @@ const SITE_DATA = {
         {
           "flat": "D-802",
           "block": "D",
-          "name": "Jalajakshi",
           "amount": 0.0,
           "date": null,
           "source": "oksbi",
@@ -4370,7 +4152,6 @@ const SITE_DATA = {
             {
               "flat": "E-102",
               "block": "E",
-              "name": "Rajesh kumar pandey",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4385,7 +4166,6 @@ const SITE_DATA = {
             {
               "flat": "E-103",
               "block": "E",
-              "name": "Sudha shree",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4415,7 +4195,6 @@ const SITE_DATA = {
             {
               "flat": "E-107",
               "block": "E",
-              "name": "Soumya Chaturvedi  (arpith sharma)",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4430,7 +4209,6 @@ const SITE_DATA = {
             {
               "flat": "E-108",
               "block": "E",
-              "name": "Tanmay S hegde",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4460,7 +4238,6 @@ const SITE_DATA = {
             {
               "flat": "E-204",
               "block": "E",
-              "name": "pralamagna Mallick",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4480,7 +4257,6 @@ const SITE_DATA = {
             {
               "flat": "E-206",
               "block": "E",
-              "name": "Harish and lipo rathore",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4500,7 +4276,6 @@ const SITE_DATA = {
             {
               "flat": "E-208",
               "block": "E",
-              "name": "Sutitra roy",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4530,7 +4305,6 @@ const SITE_DATA = {
             {
               "flat": "E-304",
               "block": "E",
-              "name": "Mueza siddiqha",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4570,7 +4344,6 @@ const SITE_DATA = {
             {
               "flat": "E-402",
               "block": "E",
-              "name": "kiran pavani",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4605,7 +4378,6 @@ const SITE_DATA = {
             {
               "flat": "E-407",
               "block": "E",
-              "name": "Manisha",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4635,7 +4407,6 @@ const SITE_DATA = {
             {
               "flat": "E-503",
               "block": "E",
-              "name": "sarita",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4695,7 +4466,6 @@ const SITE_DATA = {
             {
               "flat": "E-605",
               "block": "E",
-              "name": "Santosh shet",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4710,7 +4480,6 @@ const SITE_DATA = {
             {
               "flat": "E-606",
               "block": "E",
-              "name": "Devraj Gupta",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4755,7 +4524,6 @@ const SITE_DATA = {
             {
               "flat": "E-705",
               "block": "E",
-              "name": "Gajanan",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4770,7 +4538,6 @@ const SITE_DATA = {
             {
               "flat": "E-706",
               "block": "E",
-              "name": "Ashit Malakar",
               "amount": 500.0,
               "date": "2025-12-21 00:00:00",
               "source": "icici",
@@ -4835,7 +4602,6 @@ const SITE_DATA = {
             {
               "flat": "E-901",
               "block": "E",
-              "name": "pavan",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4850,7 +4616,6 @@ const SITE_DATA = {
             {
               "flat": "E-902",
               "block": "E",
-              "name": "Priyabratha",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4865,7 +4630,6 @@ const SITE_DATA = {
             {
               "flat": "E-903",
               "block": "E",
-              "name": "Nardas Hari",
               "amount": 500.0,
               "date": "2025-12-13 00:00:00",
               "source": "icici",
@@ -4880,7 +4644,6 @@ const SITE_DATA = {
             {
               "flat": "E-904",
               "block": "E",
-              "name": "Ramaswamy shetty J",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4900,7 +4663,6 @@ const SITE_DATA = {
             {
               "flat": "E-906",
               "block": "E",
-              "name": "Jewel Ray",
               "amount": 500.0,
               "date": "2025-12-20 00:00:00",
               "source": "icici",
@@ -4950,7 +4712,6 @@ const SITE_DATA = {
             {
               "flat": "E-1006",
               "block": "E",
-              "name": "Prafull kumar",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4975,7 +4736,6 @@ const SITE_DATA = {
             {
               "flat": "E-1101",
               "block": "E",
-              "name": "Shivakumar Bhavikatti",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -4990,7 +4750,6 @@ const SITE_DATA = {
             {
               "flat": "E-1102",
               "block": "E",
-              "name": "Naveen holla u",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5020,7 +4779,6 @@ const SITE_DATA = {
             {
               "flat": "E-1106",
               "block": "E",
-              "name": "Ankit Bansal\\Bhawana Bansal",
               "amount": 500.0,
               "date": "2025-12-16 00:00:00",
               "source": "icici",
@@ -5065,7 +4823,6 @@ const SITE_DATA = {
             {
               "flat": "E-1205",
               "block": "E",
-              "name": "Debanajan Chatterjee",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5085,7 +4842,6 @@ const SITE_DATA = {
             {
               "flat": "E-1207",
               "block": "E",
-              "name": "Ravikant kumar",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5125,7 +4881,6 @@ const SITE_DATA = {
             {
               "flat": "E-1305",
               "block": "E",
-              "name": "Vibha srivatsav",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5145,7 +4900,6 @@ const SITE_DATA = {
             {
               "flat": "E-1307",
               "block": "E",
-              "name": "Tripta ghosh",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5200,7 +4954,6 @@ const SITE_DATA = {
             {
               "flat": "E-1408",
               "block": "E",
-              "name": "Mahesh kumar panthi",
               "amount": 500.0,
               "date": "12.12.25",
               "source": "oksbi",
@@ -5213,7 +4966,6 @@ const SITE_DATA = {
         {
           "flat": "E-1006",
           "block": "E",
-          "name": "Prafull kumar",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5222,7 +4974,6 @@ const SITE_DATA = {
         {
           "flat": "E-102",
           "block": "E",
-          "name": "Rajesh kumar pandey",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5231,7 +4982,6 @@ const SITE_DATA = {
         {
           "flat": "E-103",
           "block": "E",
-          "name": "Sudha shree",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5240,7 +4990,6 @@ const SITE_DATA = {
         {
           "flat": "E-107",
           "block": "E",
-          "name": "Soumya Chaturvedi  (arpith sharma)",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5249,7 +4998,6 @@ const SITE_DATA = {
         {
           "flat": "E-108",
           "block": "E",
-          "name": "Tanmay S hegde",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5258,7 +5006,6 @@ const SITE_DATA = {
         {
           "flat": "E-1101",
           "block": "E",
-          "name": "Shivakumar Bhavikatti",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5267,7 +5014,6 @@ const SITE_DATA = {
         {
           "flat": "E-1102",
           "block": "E",
-          "name": "Naveen holla u",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5276,7 +5022,6 @@ const SITE_DATA = {
         {
           "flat": "E-1106",
           "block": "E",
-          "name": "Ankit Bansal\\Bhawana Bansal",
           "amount": 500.0,
           "date": "2025-12-16 00:00:00",
           "source": "icici",
@@ -5285,7 +5030,6 @@ const SITE_DATA = {
         {
           "flat": "E-1205",
           "block": "E",
-          "name": "Debanajan Chatterjee",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5294,7 +5038,6 @@ const SITE_DATA = {
         {
           "flat": "E-1207",
           "block": "E",
-          "name": "Ravikant kumar",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5303,7 +5046,6 @@ const SITE_DATA = {
         {
           "flat": "E-1305",
           "block": "E",
-          "name": "Vibha srivatsav",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5312,7 +5054,6 @@ const SITE_DATA = {
         {
           "flat": "E-1307",
           "block": "E",
-          "name": "Tripta ghosh",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5321,7 +5062,6 @@ const SITE_DATA = {
         {
           "flat": "E-1408",
           "block": "E",
-          "name": "Mahesh kumar panthi",
           "amount": 500.0,
           "date": "12.12.25",
           "source": "oksbi",
@@ -5330,7 +5070,6 @@ const SITE_DATA = {
         {
           "flat": "E-204",
           "block": "E",
-          "name": "pralamagna Mallick",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5339,7 +5078,6 @@ const SITE_DATA = {
         {
           "flat": "E-206",
           "block": "E",
-          "name": "Harish and lipo rathore",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5348,7 +5086,6 @@ const SITE_DATA = {
         {
           "flat": "E-208",
           "block": "E",
-          "name": "Sutitra roy",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5357,7 +5094,6 @@ const SITE_DATA = {
         {
           "flat": "E-304",
           "block": "E",
-          "name": "Mueza siddiqha",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5366,7 +5102,6 @@ const SITE_DATA = {
         {
           "flat": "E-402",
           "block": "E",
-          "name": "kiran pavani",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5375,7 +5110,6 @@ const SITE_DATA = {
         {
           "flat": "E-407",
           "block": "E",
-          "name": "Manisha",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5384,7 +5118,6 @@ const SITE_DATA = {
         {
           "flat": "E-503",
           "block": "E",
-          "name": "sarita",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5393,7 +5126,6 @@ const SITE_DATA = {
         {
           "flat": "E-605",
           "block": "E",
-          "name": "Santosh shet",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5402,7 +5134,6 @@ const SITE_DATA = {
         {
           "flat": "E-606",
           "block": "E",
-          "name": "Devraj Gupta",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5411,7 +5142,6 @@ const SITE_DATA = {
         {
           "flat": "E-705",
           "block": "E",
-          "name": "Gajanan",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5420,7 +5150,6 @@ const SITE_DATA = {
         {
           "flat": "E-706",
           "block": "E",
-          "name": "Ashit Malakar",
           "amount": 500.0,
           "date": "2025-12-21 00:00:00",
           "source": "icici",
@@ -5429,7 +5158,6 @@ const SITE_DATA = {
         {
           "flat": "E-901",
           "block": "E",
-          "name": "pavan",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5438,7 +5166,6 @@ const SITE_DATA = {
         {
           "flat": "E-902",
           "block": "E",
-          "name": "Priyabratha",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5447,7 +5174,6 @@ const SITE_DATA = {
         {
           "flat": "E-903",
           "block": "E",
-          "name": "Nardas Hari",
           "amount": 500.0,
           "date": "2025-12-13 00:00:00",
           "source": "icici",
@@ -5456,7 +5182,6 @@ const SITE_DATA = {
         {
           "flat": "E-904",
           "block": "E",
-          "name": "Ramaswamy shetty J",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -5465,7 +5190,6 @@ const SITE_DATA = {
         {
           "flat": "E-906",
           "block": "E",
-          "name": "Jewel Ray",
           "amount": 500.0,
           "date": "2025-12-20 00:00:00",
           "source": "icici",
@@ -5486,7 +5210,6 @@ const SITE_DATA = {
             {
               "flat": "F-101",
               "block": "F",
-              "name": "Sushmitha Karthik",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5516,7 +5239,6 @@ const SITE_DATA = {
             {
               "flat": "F-105",
               "block": "F",
-              "name": "Alekha Routa",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5576,7 +5298,6 @@ const SITE_DATA = {
             {
               "flat": "F-207",
               "block": "F",
-              "name": "shreeharsha",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5596,7 +5317,6 @@ const SITE_DATA = {
             {
               "flat": "F-301",
               "block": "F",
-              "name": "Rajesh S",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5646,7 +5366,6 @@ const SITE_DATA = {
             {
               "flat": "F-401",
               "block": "F",
-              "name": "Priya ranjan Deb",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5666,7 +5385,6 @@ const SITE_DATA = {
             {
               "flat": "F-403",
               "block": "F",
-              "name": "Jossy Sebastian",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5681,7 +5399,6 @@ const SITE_DATA = {
             {
               "flat": "F-404",
               "block": "F",
-              "name": "Abhilash Pulikonda",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5716,7 +5433,6 @@ const SITE_DATA = {
             {
               "flat": "F-501",
               "block": "F",
-              "name": "saleej T T",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5756,7 +5472,6 @@ const SITE_DATA = {
             {
               "flat": "F-507",
               "block": "F",
-              "name": "Lakshmeesha",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5931,7 +5646,6 @@ const SITE_DATA = {
             {
               "flat": "F-908",
               "block": "F",
-              "name": "Yuvraj sardar",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5956,7 +5670,6 @@ const SITE_DATA = {
             {
               "flat": "F-1003",
               "block": "F",
-              "name": "Sachin Ahlawat",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -5991,7 +5704,6 @@ const SITE_DATA = {
             {
               "flat": "F-1008",
               "block": "F",
-              "name": "Kiran R",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -6071,7 +5783,6 @@ const SITE_DATA = {
             {
               "flat": "F-1206",
               "block": "F",
-              "name": "Nirup sharma",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -6091,7 +5802,6 @@ const SITE_DATA = {
             {
               "flat": "F-1208",
               "block": "F",
-              "name": "Shyamvir singh Rawat",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -6111,7 +5821,6 @@ const SITE_DATA = {
             {
               "flat": "F-1302",
               "block": "F",
-              "name": "Mohammad Aamir",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -6136,7 +5845,6 @@ const SITE_DATA = {
             {
               "flat": "F-1305",
               "block": "F",
-              "name": "Roopa v malemath",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -6166,7 +5874,6 @@ const SITE_DATA = {
             {
               "flat": "F-1401",
               "block": "F",
-              "name": "Shashi Ranjan",
               "amount": 500.0,
               "date": "2025-12-10 00:00:00",
               "source": "icici",
@@ -6186,7 +5893,6 @@ const SITE_DATA = {
             {
               "flat": "F-1403",
               "block": "F",
-              "name": "Darbar singh",
               "amount": 500.0,
               "date": "12.12.25",
               "source": "oksbi",
@@ -6211,7 +5917,6 @@ const SITE_DATA = {
             {
               "flat": "F-1406",
               "block": "F",
-              "name": "Ashwinlal",
               "amount": 500.0,
               "date": null,
               "source": "oksbi",
@@ -6234,7 +5939,6 @@ const SITE_DATA = {
         {
           "flat": "F-1003",
           "block": "F",
-          "name": "Sachin Ahlawat",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6243,7 +5947,6 @@ const SITE_DATA = {
         {
           "flat": "F-1008",
           "block": "F",
-          "name": "Kiran R",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6252,7 +5955,6 @@ const SITE_DATA = {
         {
           "flat": "F-101",
           "block": "F",
-          "name": "Sushmitha Karthik",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6261,7 +5963,6 @@ const SITE_DATA = {
         {
           "flat": "F-105",
           "block": "F",
-          "name": "Alekha Routa",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6270,7 +5971,6 @@ const SITE_DATA = {
         {
           "flat": "F-1206",
           "block": "F",
-          "name": "Nirup sharma",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6279,7 +5979,6 @@ const SITE_DATA = {
         {
           "flat": "F-1208",
           "block": "F",
-          "name": "Shyamvir singh Rawat",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6288,7 +5987,6 @@ const SITE_DATA = {
         {
           "flat": "F-1302",
           "block": "F",
-          "name": "Mohammad Aamir",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6297,7 +5995,6 @@ const SITE_DATA = {
         {
           "flat": "F-1305",
           "block": "F",
-          "name": "Roopa v malemath",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6306,7 +6003,6 @@ const SITE_DATA = {
         {
           "flat": "F-1401",
           "block": "F",
-          "name": "Shashi Ranjan",
           "amount": 500.0,
           "date": "2025-12-10 00:00:00",
           "source": "icici",
@@ -6315,7 +6011,6 @@ const SITE_DATA = {
         {
           "flat": "F-1403",
           "block": "F",
-          "name": "Darbar singh",
           "amount": 500.0,
           "date": "12.12.25",
           "source": "oksbi",
@@ -6324,7 +6019,6 @@ const SITE_DATA = {
         {
           "flat": "F-1406",
           "block": "F",
-          "name": "Ashwinlal",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6333,7 +6027,6 @@ const SITE_DATA = {
         {
           "flat": "F-207",
           "block": "F",
-          "name": "shreeharsha",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6342,7 +6035,6 @@ const SITE_DATA = {
         {
           "flat": "F-301",
           "block": "F",
-          "name": "Rajesh S",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6351,7 +6043,6 @@ const SITE_DATA = {
         {
           "flat": "F-401",
           "block": "F",
-          "name": "Priya ranjan Deb",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6360,7 +6051,6 @@ const SITE_DATA = {
         {
           "flat": "F-403",
           "block": "F",
-          "name": "Jossy Sebastian",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6369,7 +6059,6 @@ const SITE_DATA = {
         {
           "flat": "F-404",
           "block": "F",
-          "name": "Abhilash Pulikonda",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6378,7 +6067,6 @@ const SITE_DATA = {
         {
           "flat": "F-501",
           "block": "F",
-          "name": "saleej T T",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6387,7 +6075,6 @@ const SITE_DATA = {
         {
           "flat": "F-507",
           "block": "F",
-          "name": "Lakshmeesha",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6396,7 +6083,6 @@ const SITE_DATA = {
         {
           "flat": "F-908",
           "block": "F",
-          "name": "Yuvraj sardar",
           "amount": 500.0,
           "date": null,
           "source": "oksbi",
@@ -6409,7 +6095,6 @@ const SITE_DATA = {
     {
       "flat": null,
       "block": null,
-      "name": "Sarojini C",
       "amount": 500.0,
       "date": null,
       "source": "oksbi",
@@ -6418,7 +6103,6 @@ const SITE_DATA = {
     {
       "flat": null,
       "block": null,
-      "name": "Dhananjayan K N",
       "amount": 500.0,
       "date": null,
       "source": "oksbi",
@@ -6427,7 +6111,6 @@ const SITE_DATA = {
     {
       "flat": null,
       "block": null,
-      "name": "yogesh",
       "amount": 500.0,
       "date": null,
       "source": "oksbi",
@@ -6436,7 +6119,6 @@ const SITE_DATA = {
     {
       "flat": null,
       "block": null,
-      "name": "Mr Prannoy pramanik",
       "amount": 500.0,
       "date": null,
       "source": "oksbi",
@@ -6445,7 +6127,6 @@ const SITE_DATA = {
     {
       "flat": null,
       "block": null,
-      "name": "pavithra yatindra moolya",
       "amount": 500.0,
       "date": null,
       "source": "oksbi",
@@ -6454,7 +6135,6 @@ const SITE_DATA = {
     {
       "flat": null,
       "block": null,
-      "name": "manoj kumar",
       "amount": 500.0,
       "date": null,
       "source": "oksbi",
