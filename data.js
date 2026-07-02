@@ -6461,66 +6461,6 @@ const SITE_DATA = {
       "lump_sum": false
     }
   ],
-  "lumpSums": [
-    {
-      "flat": null,
-      "block": null,
-      "name": "D block Contribution ",
-      "amount": 48000.0,
-      "date": null,
-      "source": "oksbi",
-      "lump_sum": true
-    }
-  ],
-  "overallCollected": 126501.0,
-  "expenses": [
-    {
-      "amount": 345,
-      "category": "Legal",
-      "spendBy": null,
-      "note": "Legal expense"
-    },
-    {
-      "amount": 805,
-      "category": "Legal",
-      "spendBy": null,
-      "note": "Legal expense"
-    },
-    {
-      "amount": 10000,
-      "category": "Misc/Other",
-      "spendBy": null,
-      "note": null
-    },
-    {
-      "amount": 1000,
-      "category": "Misc/Other",
-      "spendBy": null,
-      "note": null
-    },
-    {
-      "amount": 9000,
-      "category": "Misc/Other",
-      "spendBy": "Naveen",
-      "note": null
-    },
-    {
-      "amount": 11000,
-      "category": "Misc/Other",
-      "spendBy": "Naveen",
-      "note": null
-    },
-    {
-      "amount": 50000,
-      "category": "Legal",
-      "spendBy": null,
-      "note": "Legal expenses (paid)"
-    }
-  ],
-  "expenseCategoryTotals": {
-    "Legal": 51150,
-    "Misc/Other": 31000
-  },
-  "totalSpent": 82150,
-  "totalBalance": 44351.0
+  "lumpSums": [],
+  "overallCollected": 78501.0
 };
