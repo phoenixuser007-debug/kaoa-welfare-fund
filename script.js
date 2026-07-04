@@ -48,6 +48,19 @@ function renderBlockTable() {
     </tr>`;
   });
 
+  const unassignedTotal =
+    SITE_DATA.unassigned.reduce((s, e) => s + e.amount, 0) +
+    SITE_DATA.lumpSums.reduce((s, e) => s + e.amount, 0);
+  if (unassignedTotal > 0) {
+    totalCollected += unassignedTotal;
+    rows += `<tr>
+      <td>Unassigned (no flat number)</td>
+      <td>—</td>
+      <td>—</td>
+      <td>${fmtINR(unassignedTotal)}</td>
+    </tr>`;
+  }
+
   const overallPct = ((totalContributed / totalFlats) * 100).toFixed(1);
 
   el.innerHTML = `
