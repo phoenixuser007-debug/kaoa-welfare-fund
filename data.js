@@ -3449,7 +3449,7 @@ const SITE_DATA = {
       "block": "D",
       "totalFlats": 112,
       "flatsContributed": 96,
-      "totalCollected": 45500.0,
+      "totalCollected": 48000.0,
       "flats": [
         {
           "flat": "D-101",
@@ -3814,7 +3814,7 @@ const SITE_DATA = {
             {
               "flat": "D-405",
               "block": "D",
-              "amount": 0.0,
+              "amount": 500.0,
               "date": null,
               "source": "oksbi",
               "lump_sum": false
@@ -3954,7 +3954,7 @@ const SITE_DATA = {
             {
               "flat": "D-507",
               "block": "D",
-              "amount": 0.0,
+              "amount": 500.0,
               "date": null,
               "source": "oksbi",
               "lump_sum": false
@@ -4166,7 +4166,7 @@ const SITE_DATA = {
             {
               "flat": "D-802",
               "block": "D",
-              "amount": 0.0,
+              "amount": 500.0,
               "date": null,
               "source": "oksbi",
               "lump_sum": false
@@ -4643,7 +4643,7 @@ const SITE_DATA = {
             {
               "flat": "D-1206",
               "block": "D",
-              "amount": 0.0,
+              "amount": 500.0,
               "date": null,
               "source": "oksbi",
               "lump_sum": false
@@ -4765,7 +4765,7 @@ const SITE_DATA = {
             {
               "flat": "D-1308",
               "block": "D",
-              "amount": 0.0,
+              "amount": 500.0,
               "date": null,
               "source": "oksbi",
               "lump_sum": false
@@ -5112,7 +5112,7 @@ const SITE_DATA = {
         {
           "flat": "D-1206",
           "block": "D",
-          "amount": 0.0,
+          "amount": 500.0,
           "date": null,
           "source": "oksbi",
           "lump_sum": false
@@ -5176,7 +5176,7 @@ const SITE_DATA = {
         {
           "flat": "D-1308",
           "block": "D",
-          "amount": 0.0,
+          "amount": 500.0,
           "date": null,
           "source": "oksbi",
           "lump_sum": false
@@ -5368,7 +5368,7 @@ const SITE_DATA = {
         {
           "flat": "D-405",
           "block": "D",
-          "amount": 0.0,
+          "amount": 500.0,
           "date": null,
           "source": "oksbi",
           "lump_sum": false
@@ -5448,7 +5448,7 @@ const SITE_DATA = {
         {
           "flat": "D-507",
           "block": "D",
-          "amount": 0.0,
+          "amount": 500.0,
           "date": null,
           "source": "oksbi",
           "lump_sum": false
@@ -5552,7 +5552,7 @@ const SITE_DATA = {
         {
           "flat": "D-802",
           "block": "D",
-          "amount": 0.0,
+          "amount": 500.0,
           "date": null,
           "source": "oksbi",
           "lump_sum": false
@@ -7655,5 +7655,5 @@ const SITE_DATA = {
     }
   ],
   "lumpSums": [],
-  "overallCollected": 123001.0
+  "overallCollected": 125501.0
 };
