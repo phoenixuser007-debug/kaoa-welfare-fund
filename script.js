@@ -7,7 +7,6 @@ function init() {
 
   renderGlance();
   renderBlockTable();
-  renderUnassigned();
   renderBlockTabs();
   renderFooter();
 }
@@ -61,27 +60,6 @@ function renderBlockTable() {
         <td>${overallPct}%</td>
         <td>${fmtINR(totalCollected)}</td>
       </tr>
-    </tbody>`;
-}
-
-function renderUnassigned() {
-  const el = document.getElementById("unassignedTable");
-  const entries = [...SITE_DATA.unassigned, ...SITE_DATA.lumpSums];
-  let rows = entries
-    .map(
-      (e) => `<tr>
-        <td>${e.lump_sum ? "Lump sum (no per-flat breakdown)" : "No flat number recorded"}</td>
-        <td>${fmtINR(e.amount)}</td>
-        <td>${e.source}</td>
-      </tr>`
-    )
-    .join("");
-  const total = entries.reduce((s, e) => s + e.amount, 0);
-  el.innerHTML = `
-    <thead><tr><th>Note</th><th>Amount</th><th>Source</th></tr></thead>
-    <tbody>
-      ${rows}
-      <tr class="total-row"><td>Total</td><td>${fmtINR(total)}</td><td></td></tr>
     </tbody>`;
 }
 
