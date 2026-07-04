@@ -3448,8 +3448,8 @@ const SITE_DATA = {
     "D": {
       "block": "D",
       "totalFlats": 112,
-      "flatsContributed": 23,
-      "totalCollected": 9000.0,
+      "flatsContributed": 19,
+      "totalCollected": 7000.0,
       "flats": [
         {
           "flat": "D-101",
@@ -3493,17 +3493,8 @@ const SITE_DATA = {
         },
         {
           "flat": "D-201",
-          "status": "contributed",
-          "entries": [
-            {
-              "flat": "D-201",
-              "block": "D",
-              "amount": 500.0,
-              "date": null,
-              "source": "manual",
-              "lump_sum": false
-            }
-          ]
+          "status": "pending",
+          "entries": []
         },
         {
           "flat": "D-202",
@@ -3532,17 +3523,8 @@ const SITE_DATA = {
         },
         {
           "flat": "D-207",
-          "status": "contributed",
-          "entries": [
-            {
-              "flat": "D-207",
-              "block": "D",
-              "amount": 500.0,
-              "date": null,
-              "source": "manual",
-              "lump_sum": false
-            }
-          ]
+          "status": "pending",
+          "entries": []
         },
         {
           "flat": "D-208",
@@ -3735,17 +3717,8 @@ const SITE_DATA = {
         },
         {
           "flat": "D-603",
-          "status": "contributed",
-          "entries": [
-            {
-              "flat": "D-603",
-              "block": "D",
-              "amount": 500.0,
-              "date": null,
-              "source": "manual",
-              "lump_sum": false
-            }
-          ]
+          "status": "pending",
+          "entries": []
         },
         {
           "flat": "D-604",
@@ -3928,17 +3901,8 @@ const SITE_DATA = {
         },
         {
           "flat": "D-905",
-          "status": "contributed",
-          "entries": [
-            {
-              "flat": "D-905",
-              "block": "D",
-              "amount": 500.0,
-              "date": null,
-              "source": "manual",
-              "lump_sum": false
-            }
-          ]
+          "status": "pending",
+          "entries": []
         },
         {
           "flat": "D-906",
@@ -4269,22 +4233,6 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-201",
-          "block": "D",
-          "amount": 500.0,
-          "date": null,
-          "source": "manual",
-          "lump_sum": false
-        },
-        {
-          "flat": "D-207",
-          "block": "D",
-          "amount": 500.0,
-          "date": null,
-          "source": "manual",
-          "lump_sum": false
-        },
-        {
           "flat": "D-306",
           "block": "D",
           "amount": 500.0,
@@ -4333,14 +4281,6 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-603",
-          "block": "D",
-          "amount": 500.0,
-          "date": null,
-          "source": "manual",
-          "lump_sum": false
-        },
-        {
           "flat": "D-604",
           "block": "D",
           "amount": 500.0,
@@ -4382,14 +4322,6 @@ const SITE_DATA = {
         },
         {
           "flat": "D-902",
-          "block": "D",
-          "amount": 500.0,
-          "date": null,
-          "source": "manual",
-          "lump_sum": false
-        },
-        {
-          "flat": "D-905",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -6414,5 +6346,5 @@ const SITE_DATA = {
     }
   ],
   "lumpSums": [],
-  "overallCollected": 86501.0
+  "overallCollected": 84501.0
 };
