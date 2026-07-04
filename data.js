@@ -3448,48 +3448,120 @@ const SITE_DATA = {
     "D": {
       "block": "D",
       "totalFlats": 112,
-      "flatsContributed": 19,
-      "totalCollected": 7000.0,
+      "flatsContributed": 96,
+      "totalCollected": 45500.0,
       "flats": [
         {
           "flat": "D-101",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-101",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-102",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-102",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-103",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-103",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-104",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-104",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-105",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-105",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-106",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-106",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-107",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-107",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-108",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-108",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-201",
@@ -3498,28 +3570,73 @@ const SITE_DATA = {
         },
         {
           "flat": "D-202",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-202",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-203",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-203",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-204",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-204",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-205",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-205",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-206",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-206",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-207",
@@ -3528,33 +3645,87 @@ const SITE_DATA = {
         },
         {
           "flat": "D-208",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-208",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-301",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-301",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-302",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-302",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-303",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-303",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-304",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-304",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-305",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-305",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-306",
@@ -3572,34 +3743,15 @@ const SITE_DATA = {
         },
         {
           "flat": "D-307",
-          "status": "contributed",
-          "entries": [
-            {
-              "flat": "D-307",
-              "block": "D",
-              "amount": 500.0,
-              "date": null,
-              "source": "manual",
-              "lump_sum": false
-            }
-          ]
+          "status": "pending",
+          "entries": []
         },
         {
           "flat": "D-308",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-401",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-402",
           "status": "contributed",
           "entries": [
             {
-              "flat": "D-402",
+              "flat": "D-308",
               "block": "D",
               "amount": 500.0,
               "date": null,
@@ -3609,14 +3761,51 @@ const SITE_DATA = {
           ]
         },
         {
-          "flat": "D-403",
+          "flat": "D-401",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-401",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-402",
           "status": "pending",
           "entries": []
         },
         {
+          "flat": "D-403",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-403",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
           "flat": "D-404",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-404",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-405",
@@ -3634,48 +3823,129 @@ const SITE_DATA = {
         },
         {
           "flat": "D-406",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-406",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-407",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-407",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-408",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-408",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-501",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-501",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-502",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-502",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-503",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-503",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-504",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-504",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-505",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-505",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-506",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-506",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-507",
@@ -3693,15 +3963,10 @@ const SITE_DATA = {
         },
         {
           "flat": "D-508",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-601",
           "status": "contributed",
           "entries": [
             {
-              "flat": "D-601",
+              "flat": "D-508",
               "block": "D",
               "amount": 500.0,
               "date": null,
@@ -3711,9 +3976,23 @@ const SITE_DATA = {
           ]
         },
         {
-          "flat": "D-602",
+          "flat": "D-601",
           "status": "pending",
           "entries": []
+        },
+        {
+          "flat": "D-602",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-602",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-603",
@@ -3722,77 +4001,25 @@ const SITE_DATA = {
         },
         {
           "flat": "D-604",
-          "status": "contributed",
-          "entries": [
-            {
-              "flat": "D-604",
-              "block": "D",
-              "amount": 500.0,
-              "date": null,
-              "source": "manual",
-              "lump_sum": false
-            }
-          ]
+          "status": "pending",
+          "entries": []
         },
         {
           "flat": "D-605",
-          "status": "contributed",
-          "entries": [
-            {
-              "flat": "D-605",
-              "block": "D",
-              "amount": 500.0,
-              "date": null,
-              "source": "manual",
-              "lump_sum": false
-            }
-          ]
+          "status": "pending",
+          "entries": []
         },
         {
           "flat": "D-606",
-          "status": "contributed",
-          "entries": [
-            {
-              "flat": "D-606",
-              "block": "D",
-              "amount": 500.0,
-              "date": null,
-              "source": "manual",
-              "lump_sum": false
-            }
-          ]
+          "status": "pending",
+          "entries": []
         },
         {
           "flat": "D-607",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-608",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-701",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-702",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-703",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-704",
           "status": "contributed",
           "entries": [
             {
-              "flat": "D-704",
+              "flat": "D-607",
               "block": "D",
               "amount": 500.0,
               "date": null,
@@ -3802,29 +4029,135 @@ const SITE_DATA = {
           ]
         },
         {
-          "flat": "D-705",
+          "flat": "D-608",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-608",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-701",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-701",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-702",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-702",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-703",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-703",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-704",
           "status": "pending",
           "entries": []
+        },
+        {
+          "flat": "D-705",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-705",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-706",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-706",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-707",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-707",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-708",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-708",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-801",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-801",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-802",
@@ -3842,45 +4175,10 @@ const SITE_DATA = {
         },
         {
           "flat": "D-803",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-804",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-805",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-806",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-807",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-808",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-901",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-902",
           "status": "contributed",
           "entries": [
             {
-              "flat": "D-902",
+              "flat": "D-803",
               "block": "D",
               "amount": 500.0,
               "date": null,
@@ -3890,14 +4188,121 @@ const SITE_DATA = {
           ]
         },
         {
-          "flat": "D-903",
+          "flat": "D-804",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-804",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-805",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-805",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-806",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-806",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-807",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-807",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-808",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-808",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-901",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-901",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-902",
           "status": "pending",
           "entries": []
         },
         {
+          "flat": "D-903",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-903",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
           "flat": "D-904",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-904",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-905",
@@ -3906,20 +4311,10 @@ const SITE_DATA = {
         },
         {
           "flat": "D-906",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-907",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-908",
           "status": "contributed",
           "entries": [
             {
-              "flat": "D-908",
+              "flat": "D-906",
               "block": "D",
               "amount": 500.0,
               "date": null,
@@ -3929,109 +4324,317 @@ const SITE_DATA = {
           ]
         },
         {
-          "flat": "D-1001",
+          "flat": "D-907",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-907",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-908",
           "status": "pending",
           "entries": []
+        },
+        {
+          "flat": "D-1001",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1001",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1002",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1002",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1003",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1003",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1004",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1004",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1005",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1005",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1006",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1006",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1007",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1007",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1008",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1008",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1101",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1101",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1102",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1102",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1103",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1103",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1104",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1104",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1105",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1105",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1106",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1106",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1107",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1107",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1108",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1108",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1201",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1201",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1202",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1202",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1203",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1203",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1204",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1204",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1205",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1205",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1206",
@@ -4049,44 +4652,57 @@ const SITE_DATA = {
         },
         {
           "flat": "D-1207",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1207",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1208",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1208",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1301",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1301",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1302",
-          "status": "contributed",
-          "entries": [
-            {
-              "flat": "D-1302",
-              "block": "D",
-              "amount": 500.0,
-              "date": null,
-              "source": "manual",
-              "lump_sum": false
-            }
-          ]
+          "status": "pending",
+          "entries": []
         },
         {
           "flat": "D-1303",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-1304",
           "status": "contributed",
           "entries": [
             {
-              "flat": "D-1304",
+              "flat": "D-1303",
               "block": "D",
               "amount": 500.0,
               "date": null,
@@ -4096,9 +4712,23 @@ const SITE_DATA = {
           ]
         },
         {
-          "flat": "D-1305",
+          "flat": "D-1304",
           "status": "pending",
           "entries": []
+        },
+        {
+          "flat": "D-1305",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1305",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1306",
@@ -4116,8 +4746,17 @@ const SITE_DATA = {
         },
         {
           "flat": "D-1307",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1307",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1308",
@@ -4135,20 +4774,10 @@ const SITE_DATA = {
         },
         {
           "flat": "D-1401",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-1402",
-          "status": "pending",
-          "entries": []
-        },
-        {
-          "flat": "D-1403",
           "status": "contributed",
           "entries": [
             {
-              "flat": "D-1403",
+              "flat": "D-1401",
               "block": "D",
               "amount": 500.0,
               "date": null,
@@ -4158,32 +4787,328 @@ const SITE_DATA = {
           ]
         },
         {
-          "flat": "D-1404",
+          "flat": "D-1402",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1402",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
+        },
+        {
+          "flat": "D-1403",
           "status": "pending",
           "entries": []
+        },
+        {
+          "flat": "D-1404",
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1404",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1405",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1405",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1406",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1406",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1407",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1407",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         },
         {
           "flat": "D-1408",
-          "status": "pending",
-          "entries": []
+          "status": "contributed",
+          "entries": [
+            {
+              "flat": "D-1408",
+              "block": "D",
+              "amount": 500.0,
+              "date": null,
+              "source": "manual",
+              "lump_sum": false
+            }
+          ]
         }
       ],
       "entries": [
+        {
+          "flat": "D-1001",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1002",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1003",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1004",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1005",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1006",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1007",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1008",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-101",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-102",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-103",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-104",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-105",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-106",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-107",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-108",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1101",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1102",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1103",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1104",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1105",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1106",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1107",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1108",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1201",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1202",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1203",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1204",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1205",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
         {
           "flat": "D-1206",
           "block": "D",
@@ -4193,7 +5118,7 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-1302",
+          "flat": "D-1207",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4201,7 +5126,31 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-1304",
+          "flat": "D-1208",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1301",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1303",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1305",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4217,6 +5166,14 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
+          "flat": "D-1307",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
           "flat": "D-1308",
           "block": "D",
           "amount": 0.0,
@@ -4225,7 +5182,143 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-1403",
+          "flat": "D-1401",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1402",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1404",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1405",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1406",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1407",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-1408",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-202",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-203",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-204",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-205",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-206",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-208",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-301",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-302",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-303",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-304",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-305",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4241,7 +5334,7 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-307",
+          "flat": "D-308",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4249,7 +5342,23 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-402",
+          "flat": "D-401",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-403",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-404",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4265,6 +5374,78 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
+          "flat": "D-406",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-407",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-408",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-501",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-502",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-503",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-504",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-505",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-506",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
           "flat": "D-507",
           "block": "D",
           "amount": 0.0,
@@ -4273,7 +5454,7 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-601",
+          "flat": "D-508",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4281,7 +5462,7 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-604",
+          "flat": "D-602",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4289,7 +5470,7 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-605",
+          "flat": "D-607",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4297,7 +5478,7 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-606",
+          "flat": "D-608",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4305,7 +5486,63 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-704",
+          "flat": "D-701",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-702",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-703",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-705",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-706",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-707",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-708",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-801",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4321,7 +5558,7 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-902",
+          "flat": "D-803",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -4329,7 +5566,79 @@ const SITE_DATA = {
           "lump_sum": false
         },
         {
-          "flat": "D-908",
+          "flat": "D-804",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-805",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-806",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-807",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-808",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-901",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-903",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-904",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-906",
+          "block": "D",
+          "amount": 500.0,
+          "date": null,
+          "source": "manual",
+          "lump_sum": false
+        },
+        {
+          "flat": "D-907",
           "block": "D",
           "amount": 500.0,
           "date": null,
@@ -6346,5 +7655,5 @@ const SITE_DATA = {
     }
   ],
   "lumpSums": [],
-  "overallCollected": 84501.0
+  "overallCollected": 123001.0
 };
